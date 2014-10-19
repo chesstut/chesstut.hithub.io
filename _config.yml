@@ -8,3 +8,4 @@ exclude: [README.md, LICENSE, Makefile]
 gereksiz:
    author: "John Doe"
    email: "john.doe@mail.sexy"
+baseurl: ""
