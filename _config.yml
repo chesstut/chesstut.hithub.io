@@ -1,4 +1,4 @@
-name: "Chess Tut"
+name: "Chess Tutorial"
 markdown: redcarpet
 highlighter: pygments
 permalink: :title
@@ -9,3 +9,4 @@ gereksiz:
    author: "Sharath Kumar"
    email: "sharath.dt@gmail.com"
 baseurl: ""
+
